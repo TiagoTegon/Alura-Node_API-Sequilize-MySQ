@@ -1,2 +1,2 @@
-# Node_API-Sequilize-MySQ
+# Node_API-Sequilize-MySQL
  
